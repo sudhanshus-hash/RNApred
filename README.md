@@ -15,7 +15,7 @@ Kumar, M., Gromiha, M. M., and Raghava, G. P. S. SVM based prediction of RNA-bin
 https://doi.org/10.1002/jmr.1061
 
 
-This tool and dataset is also available on Zenodo at 
+This tool and dataset is also available on Zenodo at https://doi.org/10.5281/zenodo.20177962
 
 
 
